@@ -43,3 +43,20 @@ O NotebookLM será utilizado para organizar as fontes, formular perguntas, explo
 - [ ] Explorar as fontes com perguntas no NotebookLM.
 - [ ] Documentar os principais aprendizados.
 - [ ] Aplicar os conhecimentos em exercícios e projetos práticos.
+
+
+
+
+## NotebookLM
+
+O notebook foi desenvolvido para organizar fontes de estudo, explorar conceitos da profissão de analista de dados e consolidar aprendizados com o apoio da inteligência artificial.
+
+**Acessar o notebook:** [Guia Completo da Profissão de Analista de Dados](https://notebook.google.com/notebook/e4195369-432d-4895-906d-9bf5b2b45a83)
+
+## Resultados da aprendizagem
+
+- Organização das fontes por tema.
+- Síntese dos principais conhecimentos de análise de dados.
+- Identificação de lacunas que precisam de estudo complementar.
+- Levantamento de ideias para projetos práticos de portfólio.
+
